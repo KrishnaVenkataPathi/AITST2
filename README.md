@@ -32,3 +32,4 @@ hii kljhg
 > "gfyjasdhgfskgfuig"
 ### backslash escapes
 \* literal\*
+\** literal \**
