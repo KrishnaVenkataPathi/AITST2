@@ -30,3 +30,5 @@ ___Aits___ is located in tirupathi
 ### blockquotes
 hii kljhg
 > "gfyjasdhgfskgfuig"
+### backslash escapes
+\* literal\*
