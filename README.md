@@ -13,3 +13,10 @@ ___Aits___ is located in tirupathi
 * orange
   * orange1
   * orange2
+
+### ordered list
+1. brinjal
+2. cabbage
+3. drum stick
+   1. apple
+   2. banana
