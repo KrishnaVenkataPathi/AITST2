@@ -4,4 +4,5 @@
 #### of
 ##### technology
 ###### and
-####### science
+
+*Aits* is located in tirupathi
